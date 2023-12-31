@@ -2,7 +2,7 @@
 developmentMode = false
 
 [server]
-port = 8533
+port = 8501
 
 [theme]
 primaryColor="#944DB8"
