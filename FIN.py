@@ -13,7 +13,7 @@ from PIL import Image
 import plotly.express as px
 warnings.filterwarnings("ignore")
 
-locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
+locale.setlocale(locale.LC_ALL, '')
 st.set_page_config(page_title='Mentorama Projeto Final', layout='wide', page_icon=':chart_with_upwards_trend:')
 
 image = Image.open("mentorama.png")

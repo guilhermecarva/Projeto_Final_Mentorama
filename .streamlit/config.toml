@@ -1,0 +1,11 @@
+[global]
+developmentMode = false
+
+[server]
+port = 8533
+
+[theme]
+primaryColor="#944DB8"
+backgroundColor="#FFFFFF"
+textColor="#8b008b"
+font="sans serif"
